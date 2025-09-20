@@ -1,0 +1,43 @@
+# Backend
+__pycache__/
+*.pyc
+.env
+.env.local
+*.db
+*.sqlite3
+venv/
+.venv/
+
+# Mobile
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.expo/
+.expo-shared/
+*.p12
+*.mobileprovision
+
+# iOS
+ios/build/
+ios/Pods/
+ios/*.xcworkspace
+
+# Android
+android/app/build/
+android/.gradle/
+*.keystore
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
